@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello World, I'm Dayan [linkedin] 👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
 - 🔭 I'm currently working on my final year project
 - 💻 I’m currently working
